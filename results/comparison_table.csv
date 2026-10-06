@@ -1,4 +1,4 @@
-Configuration,Total Cost (INR),SOC-adj. Cost (INR),Peak Load (kW),Grid Dependency (%),Renewable Util. (%),Local Trading (kWh),Grid Bought (kWh),Grid Sold (kWh),Fairness (Jain),PoA (Selfish/Coop)
-Baseline,3931.15,4041.97,21.23,74.67,33.1,0.0,1100.31,826.3,0.9135,-
-Selfish,2155.6,2289.92,24.88,61.09,51.41,502.61,900.12,600.12,0.9346,0.8941
-Cooperative,2410.96,2539.55,20.31,52.5,59.94,456.37,773.56,494.86,0.93,-
+Configuration,Energy Cost (INR),Peak Demand Charge (INR),System Cost (INR),Peak Load (kW),Grid Dependency (%),Renewable Util. (%),Local Trading (kWh),Grid Bought (kWh),Grid Sold (kWh),Fairness (Jain),PoA (Selfish/Coop)
+Baseline,5170.6,2324.66,7495.26,23.25,73.98,34.65,0.0,1355.94,951.21,0.9242,-
+Selfish,3216.62,4179.34,7395.96,41.79,62.73,52.95,691.0,1149.69,684.88,0.9484,1.2359
+Cooperative,3870.64,2113.56,5984.2,21.14,49.91,64.15,439.9,914.73,521.78,0.9176,-
