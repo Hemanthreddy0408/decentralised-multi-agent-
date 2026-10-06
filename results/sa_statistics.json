@@ -1,0 +1,20 @@
+{
+  "baseline": {
+    "sa_calls": 2520.0,
+    "sa_iterations_total": 775550.0,
+    "sa_mean_iterations": 307.7579365079365,
+    "sa_mean_improvement_inr": 0.49101416378540447
+  },
+  "selfish": {
+    "sa_calls": 2520.0,
+    "sa_iterations_total": 779850.0,
+    "sa_mean_iterations": 309.4642857142857,
+    "sa_mean_improvement_inr": 0.5454586881063859
+  },
+  "cooperative": {
+    "sa_calls": 2520.0,
+    "sa_iterations_total": 772175.0,
+    "sa_mean_iterations": 306.4186507936508,
+    "sa_mean_improvement_inr": 0.3555527311724565
+  }
+}

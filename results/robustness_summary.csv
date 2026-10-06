@@ -1,0 +1,6 @@
+,total_cost,total_cost,peak,peak,grid_dep,grid_dep,p2p,p2p,fairness,fairness
+,mean,std,mean,std,mean,std,mean,std,mean,std
+scenario,,,,,,,,,,
+baseline,1611.094,282.607,15.899,2.493,0.707,0.026,0.0,0.0,0.936,0.019
+cooperative,1044.707,373.586,18.392,2.47,0.55,0.028,189.554,17.888,0.922,0.032
+selfish,984.924,299.147,24.445,3.152,0.61,0.035,219.704,13.8,0.952,0.012
